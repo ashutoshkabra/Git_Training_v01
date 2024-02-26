@@ -1,1 +1,2 @@
 Sample text - 001 for file 03
+Adding sample text - 002 for file 03
